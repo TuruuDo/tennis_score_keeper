@@ -13,6 +13,6 @@ The application offers a user-friendly interface to input scores and view match 
 
 2. Open the Application
 
-    Open the index.html file in your preferred wed browser to start using the application.
+    Go to your code editor and open the index.html file in your preferred wed browser to start using the application.
 
 
